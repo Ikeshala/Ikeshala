@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ikeshala Peiris</h1>
 <h3 align="center">🎓 IT graduate with a keen interest in AI and UI/UX engineering. Passionate about exploring the intersections of technology and creativity.</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ikeshala&label=Profile%20views&color=0e55b8&style=flat" alt="ikeshala" /> </p>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ikeshala) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ikeshala) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ikeshala) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ikeshala) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ikeshala) 
 
@@ -21,6 +23,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ikeshala&limit=5&theme=gitdimmed&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ikeshala&icon=0&color=7)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
